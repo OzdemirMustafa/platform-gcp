@@ -1,0 +1,32 @@
+# Terragrunt files
+**/.terragrunt-cache/
+**/.terraform/
+**/terraform.tfstate*
+**/.terraform.lock.hcl
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.backup
+*.bak
